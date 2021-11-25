@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//https://www.c-sharpcorner.com/article/colordialog-in-C-Sharp/
 namespace colorForm
 {
     public partial class Form1 : Form
